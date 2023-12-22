@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681473293345",
+    "project_id": "notescape-c8b0d",
+    "storage_bucket": "notescape-c8b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681473293345:android:d8d7b65a52505ec9823760",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcM_lPCL4_2lUx5wpx_0fIvT_rjX2y_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
