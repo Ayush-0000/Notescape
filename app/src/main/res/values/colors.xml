@@ -4,6 +4,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="hintcolor">#777777</color>
     <color name="brondark">#312222</color>
+    <color name="Notecolor1">#FF6263</color>
+    <color name="Notecolor2">#23C4ED</color>
+    <color name="Notecolor3">#38CC77</color>
+    <color name="Notecolor4">#D9D558</color>
+    <color name="Notecolor5">#318DB1</color>
+    <color name="Notecolor6">#D345D0</color>
 
 
 </resources>
